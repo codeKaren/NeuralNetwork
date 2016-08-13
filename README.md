@@ -1,0 +1,1 @@
+The feedforward and back propagation (with regularization) algorithms applied to a three-layer neural network for handwritten digit recognition. I used numerical gradient checking and random parameter initialization as well.
